@@ -1,5 +1,6 @@
- #!/usr/bin/python3
-# Author - Goodness Omolayo
+#!/usr/bin/python3
+# 102-magic_calculation.py
+# Goodness Omolayo <goodieomolayo1@gmail.com>
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""
